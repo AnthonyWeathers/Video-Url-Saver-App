@@ -1,0 +1,6 @@
+config.sh
+.venv
+__pycache__
+node_modules
+future_ideas.txt
+originalVideoList.js
